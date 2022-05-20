@@ -6,4 +6,4 @@ website: https://kevinl.info
 photo: kevin.jpg
 ---
 
-I like teaching Computer Science!
+[Schedule an appointment](#){: .btn .btn-outline }

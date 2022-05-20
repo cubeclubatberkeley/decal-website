@@ -1,12 +1,12 @@
 ---
-title: Introduction to Java
+title: Week 1
 ---
 
-Sep 28
+Filler 1
 : [Java & Git](#)
   : [1.1](#)
 
-Sep 29
+Filler 2
 : **Section**{: .label .label-purple }[Intro to Java](#)
   : [Solution](#)
 

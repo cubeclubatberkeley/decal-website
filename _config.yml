@@ -17,7 +17,7 @@ title: "Rubik's Cube Decal"
 # tagline: A Jekyll template for course websites
 description: In this DeCal, you will learn how to solve the Rubik’s Cube (Beginner section) or how to solve it much more quickly and efficiently (Advanced section). You will also leave with better problem solving abilities, improved understanding on the history and mathematics of the Rubik’s Cube, improved hand-eye coordination, increased finger dexterity, and a cool party trick! 
 author: "Rubik's Cube Club at Berkeley"
-baseurl: '/' # the subpath of your site, e.g. /blog
+baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://decal.rouxl.es' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
