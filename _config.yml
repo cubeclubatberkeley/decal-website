@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "How to Solve the Rubik's Cube Decal"
+title: "Rubik's Cube Decal"
 # tagline: A Jekyll template for course websites
 description: In this DeCal, you will learn how to solve the Rubik’s Cube (Beginner section) or how to solve it much more quickly and efficiently (Advanced section). You will also leave with better problem solving abilities, improved understanding on the history and mathematics of the Rubik’s Cube, improved hand-eye coordination, increased finger dexterity, and a cool party trick! 
 author: "Rubik's Cube Club at Berkeley"
