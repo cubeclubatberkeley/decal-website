@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Class
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Kevin Lin
-baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
+title: "How to Solve the Rubik's Cube Decal"
+# tagline: A Jekyll template for course websites
+description: In this DeCal, you will learn how to solve the Rubik’s Cube (Beginner section) or how to solve it much more quickly and efficiently (Advanced section). You will also leave with better problem solving abilities, improved understanding on the history and mathematics of the Rubik’s Cube, improved hand-eye coordination, increased finger dexterity, and a cool party trick! 
+author: "Rubik's Cube Club at Berkeley"
+baseurl: '/' # the subpath of your site, e.g. /blog
+url: 'https://decal.rouxl.es' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -28,10 +28,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  Cube Club:
+    - 'https://cube.berkeley.edu'
 footer_content:
 
 # Collections for website data
