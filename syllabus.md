@@ -121,19 +121,13 @@ If you are confused on which section you belong in, talk to one of the facilitat
 
 All dates are not finalized at the moment!
 
-Deadline to fill out the application listed on the DeCal website — January 30th.
-
-Note the application includes choosing either the beginner or the advanced section.
-
-We will select $\sim$130 applicants and send an email with the CCNs on September 10th.
-
-CCNs will be made available to everyone on the DeCal website after the first class, which will be on Feburary 2nd.
-
-The CCNs will be taken off of the DeCal website on February 15th.
-
-Beginner’s tests will be held on the last two weeks of class, April 20th and April 27th.
-
-Advanced tests will be held on the last week of class. More information will be presented in class.
+- Deadline to fill out the application listed on the DeCal website — January 30th.
+- Note the application includes choosing either the beginner or the advanced section.
+- We will select around 130 applicants and send an email with the CCNs on September 10th.
+- CCNs will be made available to everyone on the DeCal website after the first class, which will be on Feburary 2nd.
+- The CCNs will be taken off of the DeCal website on February 15th.
+- Beginner’s tests will be held on the last two weeks of class, April 20th and April 27th.
+- Advanced tests will be held on the last week of class. More information will be presented in class.
 
 ---
 
