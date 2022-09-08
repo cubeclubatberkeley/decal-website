@@ -24,13 +24,12 @@ nav_order: 2
 ## Details
 
 - Semester: Fall 2022
-- Room: TBD
-- Time: TBD
-- Starting Date: TBD
-- Ending Date: TBD
+- Room: Moffitt 101 (Enter from the third floor)
+- Time: Friday 5-6 (Beginners); Friday 6-7 (Advanced)
+- Starting Date: September 16th
 - Grading: P/NP
 - Office Hours: After class/By appointment/Instructor email
-- Faculty Sponsor: TBD
+- Faculty Sponsor: Lea Beneish
 
 ---
 

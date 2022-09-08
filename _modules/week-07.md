@@ -1,5 +1,5 @@
 ---
-title: Week 7
+title: Week 10 (October 28th)
 ---
 
 Homework

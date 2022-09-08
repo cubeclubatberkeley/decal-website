@@ -1,11 +1,6 @@
 ---
-title: Week 9
+title: Week 12 (November 11th)
 ---
 
-Homework
-: **HOMEWORK RELEASED**{: .label .label-yellow}Notation + Groups
-  : [Note 2](https://readings.decal.rouxl.es/docs/readings/content/note-2/)
-
 Lecture
-: **HOMEWORK REVIEW**{: .label .label-green }HW 4
-  : Homework 4
+: **NO CLASS**{: .label .label-red } **Veteran's Day**

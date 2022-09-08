@@ -1,6 +1,6 @@
 ---
-title: Week 11
+title: Week 14 (November 25th)
 ---
 
 Lecture
-: **SOLVE THE CUBE**{: .label } **BEGINNERS**{: .label .label-green } **ADVANCED**{: .label .label-purple }**Solve!**
+: **NO CLASS**{: .label .label-red } **Thanksgiving**
