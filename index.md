@@ -30,7 +30,7 @@ mathjax: true
 
 - The syllabus [can be found here](syllabus.md)
 - **Frequently Asked Questions**: Please read the class [FAQ page](faq.md)
-- [bCourses link](https://bcourses.berkeley.edu) (*This is yet to be updated for this semester*)
+- [bCourses link](https://bcourses.berkeley.edu/courses/1519879)
 
 ---
 
