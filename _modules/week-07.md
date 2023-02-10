@@ -1,5 +1,5 @@
 ---
-title: Week 10 (October 28th)
+title: Week 10 (March 23rd)
 ---
 
 Lecture

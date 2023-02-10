@@ -1,6 +1,6 @@
 ---
-title: Week 14 (November 25th)
+title: Week 14 (April 20th)
 ---
 
 Lecture
-: **NO CLASS**{: .label .label-red } **Thanksgiving**
+: **SOLVE THE CUBE**{: .label } **BEGINNERS**{: .label .label-green }**Solve!**

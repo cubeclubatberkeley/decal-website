@@ -1,6 +1,7 @@
 ---
-title: Week 13 (November 18th)
+title: Week 13 (April 13th)
 ---
 
 Lecture
-: **SOLVE THE CUBE**{: .label } **BEGINNERS**{: .label .label-green }**Solve!**
+: **HOMEWORK REVIEW**{: .label .label-green }HW 4 
+  : Homework 4

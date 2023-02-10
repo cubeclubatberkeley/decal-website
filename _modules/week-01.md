@@ -1,5 +1,5 @@
 ---
-title: Week 4 (September 16th)
+title: Week 4 (February 10th)
 ---
 
 Lecture

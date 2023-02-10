@@ -1,5 +1,5 @@
 ---
-title: Week 6 (September 30th)
+title: Week 6 (February 23rd)
 ---
 
 Lecture

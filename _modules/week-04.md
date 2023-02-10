@@ -1,5 +1,5 @@
 ---
-title: Week 7 (October 7th)
+title: Week 7 (March 2nd)
 ---
 
 Homework

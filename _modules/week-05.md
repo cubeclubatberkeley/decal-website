@@ -1,5 +1,5 @@
 ---
-title: Week 8 (October 14th)
+title: Week 8 (March 9th)
 ---
 
 Lecture
