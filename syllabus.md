@@ -91,16 +91,14 @@ The take-home exam will test students on the semester’s readings and mathemati
 
 ## Grading
 
-A total cumulative grade of **70%** is required to pass the class, in addition to having a maximum of 3 *unexcused* absences.
+In addition to completing all the mandatory requirements for both the Beginner’s and Advanced section, a total cumulative grade of 70\% must be achieved in order to pass the class. **Note that students will receive an NP if they have more than 3 absences.** The breakdown is as follows:
 
 Component|Percentage
 :--|:--
-Solve the Cube|40%
-Homework|30%
-Take-home Exam|30%
-
-Note that if you get full credit for solving the cube and homework, you will have enough to pass the class.
-
+Solve the Cube|30%
+Attendance|35%
+Papers and Assignments|15%
+Take-home Exam|20%
 
 ---
 
@@ -113,20 +111,6 @@ For the Advanced section, you will also need your own Rubik’s Cube to practice
 We will have cubes available for purchase for *$10* at the beginning of the course. Cubes can be purchased from several online retailers, the largest of which is [TheCubicle](https://thecubicle.com).
 
 If you are confused on which section you belong in, talk to one of the facilitators during the first class, and we will determine which section you should take.
-
----
-
-## Enrollment
-
-All dates are not finalized at the moment!
-
-- Deadline to fill out the application listed on the DeCal website — January 30th.
-- Note the application includes choosing either the beginner or the advanced section.
-- We will select around 130 applicants and send an email with the CCNs on September 10th.
-- CCNs will be made available to everyone on the DeCal website after the first class, which will be on Feburary 2nd.
-- The CCNs will be taken off of the DeCal website on February 15th.
-- Beginner’s tests will be held on the last two weeks of class, April 20th and April 27th.
-- Advanced tests will be held on the last week of class. More information will be presented in class.
 
 ---
 
