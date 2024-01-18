@@ -11,7 +11,7 @@ mathjax: true
 
 # Rubik's Cube Decal
 
-## Fall 2022
+## Spring 2024
 
 [Jump to latest week](#week-1)
 

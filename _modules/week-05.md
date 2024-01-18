@@ -1,5 +1,5 @@
 ---
-title: Week 8 (March 9th)
+title: Week 7 (February 29th)
 ---
 
 Lecture

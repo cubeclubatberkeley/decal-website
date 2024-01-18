@@ -1,5 +1,5 @@
 ---
-title: Week 11 (March 30th)
+title: Week 10 (March 21st)
 ---
 
 Homework
@@ -7,4 +7,5 @@ Homework
   : [Note 4](https://readings.decal.rouxl.es/docs/readings/content/note-2/), Homework 4
 
 Lecture
-: **NO CLASS**{: .label .label-red } **Spring Break**
+: **LECTURE**{: .label .label-purple }Parity + Commutators
+  : [Note 4](https://readings.decal.rouxl.es/docs/readings/content/note-4/)

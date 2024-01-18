@@ -1,7 +1,6 @@
 ---
-title: Week 12 (April 6th)
+title: Week 11 (March 28th)
 ---
 
 Lecture
-: **LECTURE**{: .label .label-purple }Parity + Commutators
-  : [Note 4](https://readings.decal.rouxl.es/docs/readings/content/note-4/)
+: **NO CLASS**{: .label .label-red } **Spring Break**

@@ -1,5 +1,5 @@
 ---
-title: Week 7 (March 2nd)
+title: Week 6 (February 22nd)
 ---
 
 Homework

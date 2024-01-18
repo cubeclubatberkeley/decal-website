@@ -1,5 +1,5 @@
 ---
-title: Week 6 (February 23rd)
+title: Week 5 (February 15th)
 ---
 
 Lecture

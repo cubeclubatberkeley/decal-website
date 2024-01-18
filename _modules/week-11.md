@@ -1,6 +1,6 @@
 ---
-title: Week 14 (April 20th)
+title: Week 13 (April 11th)
 ---
 
 Lecture
-: **SOLVE THE CUBE**{: .label } **BEGINNERS**{: .label .label-green }**Solve!**
+: **LECTURE**{: .label .label-green }Fun!

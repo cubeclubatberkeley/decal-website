@@ -19,14 +19,14 @@ schedule:
   - name: Tuesday
   - name: Wednesday
   - name: Thursday
-  - name: Friday
-    events:
+    - events:
       - name: Beginners
         start: 5:00 PM
         end: 6:00 PM
-        location: 101 Moffitt
+        location: 1015 Evans
       - name: Advanced
         start: 6:00 PM
         end: 7:00 PM
-        location: 101 Moffitt
+        location: 1015 Evans
+  - name: Friday
 ---
