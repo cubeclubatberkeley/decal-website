@@ -23,13 +23,15 @@ nav_order: 2
 
 ## Details
 
-- Semester: Fall 2022
-- Room: Moffitt 101 (Enter from the third floor)
+- Semester: Spring 2024
+- Room: Evans 1015 (Enter from the third floor)
 - Time: Friday 5-6 (Beginners); Friday 6-7 (Advanced)
-- Starting Date: September 16th
-- Grading: P/NP
+- Starting Date: February 3rd
+- Ending Date: April 27th
+- Grading: 1 Unit P/NP only
 - Office Hours: After class/By appointment/Instructor email
-- Faculty Sponsor: Lea Beneish
+- Faculty Sponsor: Michael Hutchings
+
 
 ---
 
